@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/Wallet.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/Wallet.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/Wallet.Domain.csproj",
+        "projectName": "Wallet.Domain",
+        "projectPath": "/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/Wallet.Domain.csproj",
+        "packagesPath": "/Users/wesleysantos/.nuget/packages/",
+        "outputPath": "/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wesleysantos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

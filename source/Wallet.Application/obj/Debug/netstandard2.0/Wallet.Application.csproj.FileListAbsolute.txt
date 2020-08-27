@@ -1,0 +1,12 @@
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/bin/Debug/netstandard2.0/Wallet.Application.deps.json
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/bin/Debug/netstandard2.0/Wallet.Application.dll
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/bin/Debug/netstandard2.0/Wallet.Application.pdb
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/bin/Debug/netstandard2.0/Wallet.Domain.dll
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/bin/Debug/netstandard2.0/Wallet.Domain.pdb
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.csprojAssemblyReference.cache
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.AssemblyInfoInputs.cache
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.AssemblyInfo.cs
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.csproj.CoreCompileInputs.cache
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.csproj.CopyComplete
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.dll
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Application/obj/Debug/netstandard2.0/Wallet.Application.pdb

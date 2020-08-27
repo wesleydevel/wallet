@@ -1,0 +1,9 @@
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/bin/Debug/netstandard2.0/Wallet.Domain.deps.json
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/bin/Debug/netstandard2.0/Wallet.Domain.dll
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/bin/Debug/netstandard2.0/Wallet.Domain.pdb
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/Debug/netstandard2.0/Wallet.Domain.csprojAssemblyReference.cache
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/Debug/netstandard2.0/Wallet.Domain.AssemblyInfoInputs.cache
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/Debug/netstandard2.0/Wallet.Domain.AssemblyInfo.cs
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/Debug/netstandard2.0/Wallet.Domain.csproj.CoreCompileInputs.cache
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/Debug/netstandard2.0/Wallet.Domain.dll
+/Users/wesleysantos/Projects/Dotnet/wallet/source/Wallet.Domain/obj/Debug/netstandard2.0/Wallet.Domain.pdb
